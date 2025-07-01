@@ -11,4 +11,4 @@
 `JavaScript` `React` `Node.js` `MongoDB` `Python` `Wix Velo`
 
 ## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/vivekemmadi) | [Portfolio](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vivekemmadi) | [Portfolio](https://your-portfolio.com)
