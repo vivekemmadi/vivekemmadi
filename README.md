@@ -15,6 +15,11 @@
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+- ## 📌 Featured Project
+
+### 🔬 [Virtual Chemistry Lab](https://github.com/vivekemmadi/Virtual_Chemistry_Lab)
+> 🧪 A browser-based simulation where users can add flasks, elements, control temperature, and track every step of the chemical reaction in a digital lab environment.
+
 ### 🔧 Automation & Low-Code Platforms
 - ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=Microsoft%20Power%20Automate&logoColor=white)
 - ![Microsoft Dataverse](https://img.shields.io/badge/Dataverse-742774?style=flat-square&logo=Microsoft%20Dataverse&logoColor=white)
