@@ -6,6 +6,8 @@
 - 🏫 School Management System
 - 🧪 Virtual Chemistry Lab
 - ❤️ Cardiac Disease Prediction (IRJETS Paper)
+-  🧠 [YOLO + Reinforcement Learning Object Detection](https://github.com/vivekemmadi/ObjectDetection) 
+  A smart detection system that learns where to look, enhancing real-time vision accuracy
 
 ## 🔧 Tech Stack
 ### 💻 Programming & Scripting
